@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋 I'm Talal Salman Zafeer
 
-<!--
-**itstalalsalman/itstalalsalman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💫 **About Me**  
+I am a graduate of **CTIS from Bilkent University**, motivated and passionate about designing **cool animated web apps with efficient data flow**.  
 
-Here are some ideas to get you started:
+🚀 **What I'm Up To**  
+🤖 Building a **RAG (Retrieval-Augmented Generation) system**  
+💻 Exploring creative web experiences with **Three.js** and interactive 3D animations  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 **Portfolio**  
+Check out my projects and work here: [My Portfolio](https://talalsalmanzafeer-delta.vercel.app/)  
+
+🌐 **Connect with Me**  
+- [LinkedIn](https://www.linkedin.com/in/talal-salman-zafeer-175aab248/)  
+- [Instagram](https://www.instagram.com/talal.lalalala/)  
+
+💻 **Tech Stack**  
+
+**Languages:**  
+JavaScript, Java, SQL, HTML5, CSS, SCSS, C, Python  
+
+**Developer Tools:**  
+Docker, Postman, GCP, Git, CI/CD, GitHub Actions  
+
+**Libraries / Frameworks:**  
+AWS, GCP, React, Three.js, TailwindCSS, Framer Motion, GSAP, Spring Boot, Node.js  
