@@ -30,7 +30,23 @@ Check out my projects and work here: [My Portfolio](https://talalsalmanzafeer-de
 
 
 **Developer Tools:**  
-Docker, Postman, GCP, Git, CI/CD, GitHub Actions  
+<div style="display: flex; justify-content: center; align-items: center; gap: 15px; flex-wrap: wrap;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/postman.svg" width="40" height="40" alt="Postman">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/githubactions.svg" width="40" height="40" alt="GitHub Actions">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/circleci.svg" width="40" height="40" alt="CI/CD">
+</div>
 
 **Libraries / Frameworks:**  
-AWS, GCP, React, Three.js, TailwindCSS, Framer Motion, GSAP, Spring Boot, Node.js  
+<div style="display: flex; justify-content: center; align-items: center; gap: 15px; flex-wrap: wrap;">
+  <img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png" width="40" height="40" alt="AWS">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40" alt="GCP">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="40" height="40" alt="Three.js">
+  <img src="https://getlogovector.com/wp-content/uploads/2021/01/tailwind-css-logo-vector.png" width="40" height="40" alt="TailwindCSS">
+  <img src="https://tsh.io/wp-content/uploads/fly-images/32664/framer-motion-logo-1-312x211.png" width="40" height="40" alt="Framer Motion">
+  <img src="https://static.wikia.nocookie.net/logopedia/images/4/48/GreenSock_2014.svg/revision/latest?cb=20231024190358" width="40" height="40" alt="GSAP">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js">
+</div>
