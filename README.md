@@ -17,7 +17,7 @@ Check out my projects and work here: [My Portfolio](https://talalsalmanzafeer-de
 # 💻 **Tech Stack**  
 
 **Languages:**  
-![JavaScript][https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png],![Java][https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIUJCuhhO51qZ0u3QpLPKhT5J52yqgyH6BJA&s], SQL, HTML5, CSS, SCSS, C, Python  
+![JavaScript](https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png),![Java](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIUJCuhhO51qZ0u3QpLPKhT5J52yqgyH6BJA&s), SQL, HTML5, CSS, SCSS, C, Python  
 
 **Developer Tools:**  
 Docker, Postman, GCP, Git, CI/CD, GitHub Actions  
